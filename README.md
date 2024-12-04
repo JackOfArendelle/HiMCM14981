@@ -38,4 +38,4 @@ For Entropy_TOPSIS [Python] : https://github.com/JackOfArendelle/HiMCM14981/blob
 
 Plotting [Python] : https://github.com/JackOfArendelle/HiMCM14981/blob/main/Plot.py
 
-For GNB : https://github.com/JackOfArendelle/HiMCM14981/blob/main/gnb_sensitivity.py
+For GNB [Python] : https://github.com/JackOfArendelle/HiMCM14981/blob/main/gnb_sensitivity.py
